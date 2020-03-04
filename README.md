@@ -18,7 +18,7 @@ Jamf Interaction Toolkit, commonly known as UEX, was built with a few goals in m
   * Notify the user when the computer needs to be restarted
   * Allow the user to postpone the action based on number of times instead of an end date
 * All of this has to be compatible with Jamf Pro.
-* All of this has to be work tandem with Self Service.
+* All of this has to work in tandem with Self Service.
 
 Over time this tool has grown into a full set of versatile scripts that can essentially be used as your primary method for creating policies. 
 
